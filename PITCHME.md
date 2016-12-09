@@ -1,6 +1,4 @@
 
-
-
 ### Functional Programming Series Introduction ###
 
 ![Civilized](http://imgs.xkcd.com/comics/lisp_cycles.png)
@@ -8,10 +6,7 @@
 #HSLIDE
 
 
-
 ### Motivations for this series ###
-
-
 
 
 - Improve the practice's knowledge base for FP
