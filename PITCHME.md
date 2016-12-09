@@ -54,7 +54,7 @@
 
 ![Turing](assets/turing.png) 
 ![Church](assets/church.png) 
-
+![Church](assets/kleen.png) 
 
 #VSLIDE
 
