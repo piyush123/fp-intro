@@ -30,8 +30,9 @@
 
 - Important to understand the approaches taken as computers were designed
 - Theory of Computation was formalized in the 1930s by several pioneers including Turing, Church, Kleene 
+![Turing](assets/turing.png)
 
-
+#VSLIDE
     - The imperative and functional models grew out of work undertaken
     Alan Turing, Alonzo Church, Stephen Kleene, Emil Post, etc. ~1930s
     different formalizations of the* notion of an algorithm*,* or *effective procedure*, based on *automata*, *symbolic manipulation*, *recursive function definitions*, and *combinatorics*
