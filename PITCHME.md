@@ -16,7 +16,7 @@
 - Understanding the origins of FP concepts in Lisp, Javascript, Swift, Scala, C#, etc
 - Fun with pair programming and learning
 
-#HSLIDE
+#VSLIDE
 
 ### What you will get ###
 
@@ -24,13 +24,30 @@
 - Support and mentoring from XM and larger community
 - Prizes, glory and fame !
 
+#VSLIDE
+
+##### Today
+
+- overview
+- lunch !
+- Clojure Introduction - Peter Mondock. XM Lead on Functional Programming Practice !
+- Learn by Pairing
+
+#VSLIDE
+
+##### Future
+- Scala
+- Swift
+- AWS Lambda 
+- Apache Spark from Map to PMAP
+- Other ?
+
 #HSLIDE
 
 ### Historical Background & Context ###
 
 - Important to understand the approaches taken as computers were designed
 - Theory of Computation was formalized in the 1930s by several pioneers including Turing, Church, Kleene 
-
 
 
 #VSLIDE
@@ -43,13 +60,13 @@
     - The imperative and functional models grew out of work undertaken
     Alan Turing, Alonzo Church, Stephen Kleene, Emil Post, etc. ~1930s
     different formalizations of the* notion of an algorithm*,* or *effective procedure*, based on *automata*, *symbolic manipulation*, *recursive function definitions*, and *combinatorics*
-    These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as well
+    -These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as well
     this conjecture is known as Church’s thesis
     
 #VSLIDE
 
 
-![John McCarthy](assets/McCarthy.png =100x100)
+![John McCarthy](assets/McCarthy.png)
 LIST Processor
 
 Influenced by Church’s lambda calculus notation
@@ -58,9 +75,26 @@ Multi-paradigm, pre-fix notation
 
 John McCarthy
 
-![Land of Lisp](assets/landoflisp.jpeg =100x100)
+#VSLIDE
 
-![Lambda Calculus](https://aspblogs.blob.core.windows.net/media/dixin/Windows-Live-Writer/Lambda-Calculus-via-C-1_CA43/Lambda-Calculus_3.png)
+![Land of Lisp](assets/landoflisp.jpeg)
+
+Reviews
+"Turns out the border between genius and insanity is a pretty cheery place."
+—Paul Graham
+
+"An excellent book for someone who wants to learn how to program."
+—Slashdot
+
+"If for no other reason, you should buy Land of Lisp because of the extreme levels of unadulterated nerdery filling its pages. This book will appeal to the long-time Lisper and the neophyte."
+—Michael Fogus, author of The Joy of Clojure and Functional JavaScript
+
+"By choosing to teach Common Lisp using 1980s style text games the author has come up with an original and clever idea that avoids all the usual boring examples found in computer language books."
+—John Graham-Cumming, author of The Geek Atlas
+
+"To be honest, I just bought the book for enjoyment but I find myself getting a new perspective and learning more about Common Lisp. Recommended!"
+—Mark Watson, author of Scripting Intelligence
+
 
 #HSLIDE
 
