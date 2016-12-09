@@ -27,12 +27,12 @@
 - Theory of Computation
     - The imperative and functional models grew out of work undertaken
     Alan Turing, Alonzo Church, Stephen Kleene, Emil Post, etc. ~1930s
-    different formalizations of the notion of an algorithm, or effective procedure, based on automata, symbolic manipulation, recursive function definitions, and combinatorics
+    different formalizations of the* notion of an algorithm*,* or *effective procedure*, based on *automata*, *symbolic manipulation*, *recursive function definitions*, and *combinatorics*
     These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as well
     this conjecture is known as Church’s thesis
     
 
-
+![Lambda Calculus](https://aspblogs.blob.core.windows.net/media/dixin/Windows-Live-Writer/Lambda-Calculus-via-C-1_CA43/Lambda-Calculus_3.png)
 
 #HSLIDE
 
@@ -44,7 +44,7 @@
 
 #### Functions of Functional Programming ####
 
-[]()
+
 
 #HSLIDE
 
