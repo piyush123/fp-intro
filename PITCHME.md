@@ -52,9 +52,9 @@
 
 #VSLIDE
 
-![Turing](assets/turing.png)
-![Church](assets/church.png)
-![Kleen](assets/kleen.png)
+Turing![Turing](assets/turing.png) 
+Church![Church](assets/church.png) 
+Kleen ![Kleen](assets/kleen.png)
 
 #VSLIDE
     - The imperative and functional models grew out of work undertaken
@@ -67,24 +67,26 @@
 
 
 ![John McCarthy](assets/McCarthy.png)
+John McCarthy
+
 LIST Processor
 
 Influenced by Church’s lambda calculus notation
 
 Multi-paradigm, pre-fix notation
 
-John McCarthy
+
 
 #VSLIDE
 
 ![Land of Lisp](assets/landoflisp.jpeg)
 
+Lisp has been hailed as the world’s most powerful programming language,
+but its cryptic syntax and academic reputation can be enough to scare off even experienced programmers. Those dark days are finally over—Land of Lisp brings the power of functional programming to the people!
+
 Reviews
 "Turns out the border between genius and insanity is a pretty cheery place."
 —Paul Graham
-
-"An excellent book for someone who wants to learn how to program."
-—Slashdot
 
 "If for no other reason, you should buy Land of Lisp because of the extreme levels of unadulterated nerdery filling its pages. This book will appeal to the long-time Lisper and the neophyte."
 —Michael Fogus, author of The Joy of Clojure and Functional JavaScript
