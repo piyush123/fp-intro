@@ -1,10 +1,13 @@
-# Functional Programming Introduction
+## Functional Programming Series Introduction
+
+#HSLIDE
 
 ###Motivations for this series
-Improve the practice's knowledge base for FP
-Reduce incidental complexity in large programs
-Demonstrate new/improved "programming tools" - ie. support of concurrency
-Understanding the origins of FP concepts in Lisp, Javascript, Swift, Scala, C#, etc
+*Improve the practice's knowledge base for FP
+*Reduce incidental complexity in large programs
+*Demonstrate new/improved "programming tools" - ie. support of concurrency
+*Understanding the origins of FP concepts in Lisp, Javascript, Swift, Scala, C#, etc
+*Fun with pair programming and learning
 
 #HSLIDE
 
