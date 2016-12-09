@@ -49,8 +49,16 @@
 #VSLIDE
 
 
-![John McCarthy](assets/McCarthy.png)
-![Land of Lisp](assets/landoflisp.jpeg)
+![John McCarthy](assets/McCarthy.png =100x100)
+LIST Processor
+
+Influenced by Church’s lambda calculus notation
+
+Multi-paradigm, pre-fix notation
+
+John McCarthy
+
+![Land of Lisp](assets/landoflisp.jpeg =100x100)
 
 ![Lambda Calculus](https://aspblogs.blob.core.windows.net/media/dixin/Windows-Live-Writer/Lambda-Calculus-via-C-1_CA43/Lambda-Calculus_3.png)
 
