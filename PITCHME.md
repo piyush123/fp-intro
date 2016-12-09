@@ -52,21 +52,23 @@
 
 #VSLIDE
 
-Turing![Turing](assets/turing.png) 
-Church![Church](assets/church.png) 
-Kleen ![Kleen](assets/kleen.png)
+![Turing](assets/turing.png) 
+![Church](assets/church.png) 
+![Kleen](assets/kleen.png)
 
 #VSLIDE
-    - The imperative and functional models grew out of work undertaken
-    Alan Turing, Alonzo Church, Stephen Kleene, Emil Post, etc. ~1930s
-    different formalizations of the* notion of an algorithm*,* or *effective procedure*, based on *automata*, *symbolic manipulation*, *recursive function definitions*, and *combinatorics*
-    -These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as well
-    this conjecture is known as Church’s thesis
+
+- The imperative and functional models grew out of work undertaken Alan Turing, Alonzo Church, Stephen Kleene, Emil Post, etc. ~1930s  different formalizations of the* notion of an algorithm*,* or *effective procedure*, based on *automata*, *symbolic manipulation*, *recursive function definitions*, and *combinatorics*
+
+#VSLIDE
+
+-These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as wellthis conjecture is known as Church’s thesis
     
 #VSLIDE
 
 
 ![John McCarthy](assets/McCarthy.png)
+
 John McCarthy
 
 LIST Processor
@@ -76,13 +78,9 @@ Influenced by Church’s lambda calculus notation
 Multi-paradigm, pre-fix notation
 
 
-
 #VSLIDE
 
 ![Land of Lisp](assets/landoflisp.jpeg)
-
-Lisp has been hailed as the world’s most powerful programming language,
-but its cryptic syntax and academic reputation can be enough to scare off even experienced programmers. Those dark days are finally over—Land of Lisp brings the power of functional programming to the people!
 
 Reviews
 "Turns out the border between genius and insanity is a pretty cheery place."
@@ -104,10 +102,11 @@ Reviews
 
 ![Visual Guide](http://www.math-cs.gordon.edu/courses/cs323/LISP/3Paradigms.png)
 
-#HSLIDE
+#VSLIDE
 
 #### Functions of Functional Programming ####
 
+![](assets/fpconcepts.png)
 
 
 #HSLIDE
