@@ -100,7 +100,7 @@ Reviews
 
 #### Paradigms of Programming ####
 
-![Visual Guide](http://www.math-cs.gordon.edu/courses/cs323/LISP/3Paradigms.Png)
+![Visual Guide](http://www.math-cs.gordon.edu/courses/cs323/LISP/3Paradigms.png)
 
 #VSLIDE
 
@@ -112,10 +112,15 @@ Reviews
 
 #### Learning Clojure ####
 
+
 ![Brave Clojure](assets/brave.png)
 ![Seven Concurrency](assets/seven.jpg)
 
+#### Pair Programming and Mentoring ####
 
+- Julian
+- Peter
+- Paul
 
 #HSLIDE
 
