@@ -1,10 +1,14 @@
-# Flux 
+# Functional Programming Introduction
 
-An application architecture for React
+###Motivations for this series
+Improve the practice's knowledge base for FP
+Reduce incidental complexity in large programs
+Demonstrate new/improved "programming tools" - ie. support of concurrency
+Understanding the origins of FP concepts in Lisp, Javascript, Swift, Scala, C#, etc
 
 #HSLIDE
 
-### Flux Design
+### Historical Background
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
