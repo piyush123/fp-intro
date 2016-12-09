@@ -26,10 +26,12 @@
 
 #HSLIDE
 
-### Historical Background & Contex ###
+### Historical Background & Context ###
 
 - Important to understand the approaches taken as computers were designed
 - Theory of Computation was formalized in the 1930s by several pioneers including Turing, Church, Kleene 
+
+
 
 #VSLIDE
 
@@ -44,6 +46,11 @@
     These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as well
     this conjecture is known as Church’s thesis
     
+#VSLIDE
+
+
+![John McCarthy](assets/McCarthy.png)
+![Land of Lisp](assets/landoflisp.jpeg)
 
 ![Lambda Calculus](https://aspblogs.blob.core.windows.net/media/dixin/Windows-Live-Writer/Lambda-Calculus-via-C-1_CA43/Lambda-Calculus_3.png)
 
@@ -69,3 +76,12 @@
 
 # HSLIDE #
 
+#HSLIDE
+
+#### Some Related Links
+
+- [GitHub: ROSE Package](https://github.com/onetapbeyond/opencpu-spark-executor)
+- [GitHub: ROSE Examples](https://github.com/onetapbeyond/opencpu-spark-executor#rose-examples)
+- [GitHub: opencpu-r-executor](https://github.com/onetapbeyond/opencpu-r-executor)
+- [GitHub: Apache Spark](https://github.com/apache/spark)
+- [Apache Spark Packages](https://spark-packages.org/package/onetapbeyond/opencpu-spark-executor)
