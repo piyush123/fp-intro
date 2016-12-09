@@ -52,7 +52,9 @@
 
 #VSLIDE
 
-
+![](assets/turing.png) 
+![](assets/church.png) 
+![](assets/kleen.png)
 
 #VSLIDE
 
