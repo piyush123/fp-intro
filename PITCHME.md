@@ -30,7 +30,12 @@
 
 - Important to understand the approaches taken as computers were designed
 - Theory of Computation was formalized in the 1930s by several pioneers including Turing, Church, Kleene 
+
+#VSLIDE
+
 ![Turing](assets/turing.png)
+![Church](assets/church.png)
+![Kleen](assets/kleen.png)
 
 #VSLIDE
     - The imperative and functional models grew out of work undertaken
