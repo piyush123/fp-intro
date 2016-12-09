@@ -5,7 +5,7 @@
 
 ![Civilized](http://imgs.xkcd.com/comics/lisp_cycles.png)
 
-# HSLIDE #
+#HSLIDE
 
 
 
@@ -21,7 +21,7 @@
 - Understanding the origins of FP concepts in Lisp, Javascript, Swift, Scala, C#, etc
 - Fun with pair programming and learning
 
-# HSLIDE #
+#HSLIDE
 
 ### What you will get ###
 
@@ -29,7 +29,7 @@
 - Support and mentoring from XM and larger community
 - Prizes, glory and fame !
 
-# HSLIDE #
+#HSLIDE
 
 ### Historical Background & Contex ###
 
@@ -44,19 +44,19 @@
 
 ![Lambda Calculus](https://aspblogs.blob.core.windows.net/media/dixin/Windows-Live-Writer/Lambda-Calculus-via-C-1_CA43/Lambda-Calculus_3.png)
 
-# HSLIDE #
+#HSLIDE
 
 #### Paradigms of Programming ####
 
 ![Visual Guide](http://www.math-cs.gordon.edu/courses/cs323/LISP/3Paradigms.png)
 
-# HSlide #
+#HSLIDE
 
 #### Functions of Functional Programming ####
 
 
 
-# HSLIDE #
+#HSLIDE
 
 #### Learning Clojure ####
 
