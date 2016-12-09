@@ -62,7 +62,11 @@
 
 #VSLIDE
 
--These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as wellthis conjecture is known as Church’s thesis
+- 1933 Godel/Herbrand
+- 1936 Church publishes λ-calculus.
+- 1936 Turing creates theoretical model for computing machines
+- These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as well this conjecture is known as Church’s thesis
+- This became the basis for modern computation, a formal Theory of Computing!    
     
 #VSLIDE
 
@@ -115,6 +119,7 @@ Reviews
 
 ![Brave Clojure](assets/brave.png)
 ![Seven Concurrency](assets/seven.jpg)
+![Clojure MOOC](assets/mooc.png)
 
 #### Pair Programming and Mentoring ####
 
