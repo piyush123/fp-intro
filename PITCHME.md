@@ -1,7 +1,7 @@
 
 ### Functional Programming Series Introduction ###
 
-![Civilized](http://imgs.xkcd.com/comics/lisp_cycles.png)
+![Civilized](assets/cartoon.jpg)
 
 #HSLIDE
 
@@ -100,7 +100,7 @@ Reviews
 
 #### Paradigms of Programming ####
 
-![Visual Guide](http://www.math-cs.gordon.edu/courses/cs323/LISP/3Paradigms.png)
+![Visual Guide](http://www.math-cs.gordon.edu/courses/cs323/LISP/3Paradigms.Png)
 
 #VSLIDE
 
@@ -108,23 +108,20 @@ Reviews
 
 ![](assets/fpconcepts.png)
 
-
 #HSLIDE
 
 #### Learning Clojure ####
 
+![Brave Clojure](assets/brave.png)
+![Seven Concurrency](assets/seven.jpg)
 
 
-
-
-# HSLIDE #
 
 #HSLIDE
 
 #### Some Related Links
 
-- [GitHub: ROSE Package](https://github.com/onetapbeyond/opencpu-spark-executor)
-- [GitHub: ROSE Examples](https://github.com/onetapbeyond/opencpu-spark-executor#rose-examples)
-- [GitHub: opencpu-r-executor](https://github.com/onetapbeyond/opencpu-r-executor)
-- [GitHub: Apache Spark](https://github.com/apache/spark)
-- [Apache Spark Packages](https://spark-packages.org/package/onetapbeyond/opencpu-spark-executor)
+- [Rich Hickey Amazon List](https://www.amazon.com/gp/richpub/listmania/fullview/R3LG3ZBZS4GCTH)
+- [Seven Weeks, Seven Concurrency Models](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
+- [Clojure for the Brave and True](http://www.braveclojure.com)
+- [Rich Hickey-Simple Made Easy](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwigjZO72-fQAhVE6mMKHarmCBEQFggaMAA&url=https%3A%2F%2Fwww.infoq.com%2Fpresentations%2FSimple-Made-Easy&usg=AFQjCNF2-ym5CR0NR5uMfIbzKvBW-PtqBQ&sig2=dkm-nLgnxrg9jqmX4P7zMQ&bvm=bv.141320020,d.cGc)
