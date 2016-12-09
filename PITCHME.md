@@ -62,7 +62,7 @@
 
 #VSLIDE
 
-- 1933 Godel/Herbrand
+- 1933 Godel/Herbrand develop formal model for general recursive functions
 - 1936 Church publishes λ-calculus.
 - 1936 Turing creates theoretical model for computing machines
 - These results led Church to conjecture that any intuitively appealing model of computing would be equally powerful as well this conjecture is known as Church’s thesis
